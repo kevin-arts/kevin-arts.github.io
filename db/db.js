@@ -207,6 +207,15 @@ export default {
 			icon: "group",
 		},
 		{
+			title: "ThinkPedia LLP",
+			duration: "May 2019 - June 2019",
+			subtitle: "SDE Intern",
+			details: [
+				"Worked as a full stack developer to support tech team.",
+				"Developed a customer Web Application from scratch for social media management.",
+			],
+			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+			icon: "group",
 			title: "Sample Image From the Images directory.",
 			image: "images/WhatsApp Image 2022-02-20 at 10.00.38 AM.jpeg",
 
