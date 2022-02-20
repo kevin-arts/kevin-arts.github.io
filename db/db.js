@@ -206,6 +206,11 @@ export default {
 			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
 			icon: "group",
 		},
+		{
+			title: "Sample Image From the Images directory.",
+			image: "images/WhatsApp Image 2022-02-20 at 10.00.38 AM.jpeg",
+
+		}
 	],
 	education: [
 		{
