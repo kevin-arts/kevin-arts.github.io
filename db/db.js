@@ -196,7 +196,7 @@ export default {
 			icon: "qrcode",
 		},
 		{
-			title: "ThinkPedia LLP",
+			title: "ThinkPedia LLPA",
 			duration: "May 2019 - June 2019",
 			subtitle: "SDE Intern",
 			details: [
